@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 from streamlit_js_eval import streamlit_js_eval
 from streamlit_option_menu import option_menu
-from streamlit_star_rating import st_star_rating
+from st-star-rating import st_star_rating
 from functions import (contact_email, add_row, generate_row,
                        customer_email, rating_stars, create_post, pdf_file,
                        valid_email, valid_postalcode)
