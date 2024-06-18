@@ -2,4 +2,4 @@ streamlit
 pandas
 streamlit_js_eval
 streamlit_option_menu
-star_ratings
+streamlit-star-ratings
