@@ -3,3 +3,4 @@ pandas
 streamlit_js_eval
 streamlit_option_menu
 streamlit-star-ratings
+fpdf
